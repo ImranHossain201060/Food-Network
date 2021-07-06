@@ -36,6 +36,7 @@ h2{
 }
 .half-another{
     width: 50%;
+    padding-right: 100px;
 }
 .half-another img{
     width: 300px;
@@ -65,7 +66,7 @@ footer div{
   } 
   .container{
       width:33% ;
-      padding: 80px;
+      padding: 50px;
       box-shadow: 5px 5px 5px 5px rgb(227, 231, 226);
       border-radius: 20px;
       margin-left: 10px;
@@ -73,7 +74,7 @@ footer div{
       margin-top: 50px ;
   } 
   .container img{
-      width: 120%;
+      width: 100%;
   }
   .youtube{
       display: flex;
